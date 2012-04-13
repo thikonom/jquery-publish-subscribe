@@ -1,1 +1,1 @@
-    Simplest implementation of publish/subscribe for jQuery
+Simplest implementation of publish/subscribe for jQuery
